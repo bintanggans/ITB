@@ -31,7 +31,10 @@ float perhitungan(string var){//fungsi kalkulator untuk penjumlahan sampai perpa
     }
     else if(var=="^"){
         cout<<"         "<<a<<"^"<<b<<endl;
-        nilai=pow(a,b);
+        nilai=1;
+        for(int i=0;i<b;i++){
+            nilai=nilai*a;
+        }
     }
     return (nilai);
 }
