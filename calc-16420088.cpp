@@ -3,7 +3,7 @@
 #include <math.h>
 /*  Nama : Bintang Ramdhani.
     NIM  : 16420088
-    terdapat terdapat 2 fungsi termasuk main, dan 5 prosedur pada kalkulator ini, fungsi perhitungan sebagai kalkulator untuk kasus penjumlahan sampai perpangkatan sedangkan untuk kalkulator integral formula nya digabung dengan formatnya.
+    terdapat terdapat 2 fungsi termasuk main, dan 6 prosedur pada kalkulator ini, fungsi perhitungan sebagai kalkulator untuk kasus penjumlahan sampai perpangkatan sedangkan untuk kalkulator integral formula nya digabung dengan formatnya.
     tujuan dibuat format adalah agar user tidak melakukan kesalahan pada penginputan.   */
 using namespace std;
 
